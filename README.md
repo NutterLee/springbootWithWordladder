@@ -13,8 +13,12 @@ the word ladder web app with springboot and shiro
      
      数据库配置
     datasource:
+    
       url: jdbc:mysql://localhost:3306/testLogin
+      
       username: root
+      
       password: 4869
+      
     
      
